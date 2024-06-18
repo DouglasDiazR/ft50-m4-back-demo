@@ -1,5 +1,10 @@
 {
   "singleQuote": true,
   "trailingComma": "all",
+<<<<<<< HEAD
   "endOfLine": "lf"
 }
+=======
+  "endOfLine": "crlf"
+}
+>>>>>>> 764bd384361943a1bd5525995c10f7fbc626b75e
